@@ -1,7 +1,6 @@
 import os
 import time
 import psutil
-import matplotlib
 from prettytable import PrettyTable
 from prettytable import DOUBLE_BORDER
 
